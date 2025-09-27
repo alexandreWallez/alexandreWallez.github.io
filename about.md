@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Interests :
+ - Traveling
+ - running / sports
+ - video games

@@ -1,3 +1,4 @@
+
 plugins:
   - jekyll-remote-theme
 
@@ -6,8 +7,9 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 title: Profil 
 description: M1 Data Science, université de Lille
 author: Alexandre Wallez
-avatar: /logo.pdf
+avatar: /logo.png
 email: alexandre.wallez.etu@univ-lille.fr
+subscribe: False
 
 plugins:
   - jekyll-seo-tag
@@ -34,10 +36,9 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-logo: logo.pdf
+logo: logo.png
 social:
   name: Alexandre Wallez
   links:
     - https://github.com/alexandreWallez/
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: fr

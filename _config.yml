@@ -1,8 +1,13 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+title: Profil 
+description: M1 Data Science, université de Lille
+author: Alexandre Wallez
+avatar: /logo.pdf
+email: alexandre.wallez.etu@univ-lille.fr
 
 plugins:
   - jekyll-seo-tag
@@ -29,15 +34,10 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+logo: logo.pdf
 social:
-  name: Shangzhi Huang
+  name: Alexandre Wallez
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/alexandreWallez/
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: fr

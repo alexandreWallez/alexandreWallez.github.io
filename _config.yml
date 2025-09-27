@@ -5,7 +5,7 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 title: Profil 
-description: M1 Data Science, université de Lille
+description: M1 Data Science, Université de Lille
 author: Alexandre Wallez
 avatar: /logo.png
 email: alexandre.wallez.etu@univ-lille.fr
